@@ -9,6 +9,6 @@
 
 ![Logo](.key.gif "Volta o cão arrependido...")
 
-3. Clique em **`Create new file`** em **`Name your file`** coloque seu **`nome.sobrenome`** e cole a chave do passo anterior depois **`commit`**.
+3. Clique em **`Create new file`** em **`Name your file`** coloque seu **`nome.sobrenome.pub`** e cole a chave do passo anterior depois **`commit`**.
 
 ![Logo](.add.gif "Comigo ninguem tem paciência!")
