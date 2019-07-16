@@ -1,4 +1,5 @@
 # Chaves (Isso, isso, isso!)
+- [CLIQUE AQUI PARA SABER COMO FAZER BACKUP DAS CHAVES SSH](https://github.com/Superlogica/superlogica-ambientes/blob/master/ambiente-programacao/backup-chave-ssh.md)
 
 
 ### Localize sua chave publica
