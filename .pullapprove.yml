@@ -5,7 +5,7 @@ reset_on_push: false
 reviewers:
 
     -
-        name: admin
+        name: member
         required: 1
         members:
             - carlossuperlogica
@@ -13,3 +13,6 @@ reviewers:
             - jhoncf
             - jeanrodrigues
             - matheusmazzola
+        conditions:
+            files:
+                - "docs/*"
