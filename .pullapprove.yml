@@ -12,6 +12,7 @@ reviewers:
             - luiscera
             - jhoncf
             - jeanrodrigues
+            - reduardosanto
         conditions:
             files:
                 - "docs/*"
