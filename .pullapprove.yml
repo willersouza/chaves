@@ -13,6 +13,3 @@ reviewers:
             - jhoncf
             - jeanrodrigues
             - reduardosanto
-        conditions:
-            files:
-                - "docs/*"
